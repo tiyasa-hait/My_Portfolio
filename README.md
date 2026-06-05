@@ -2,7 +2,7 @@
 
 B.SC CS Student and Aspiring Developer from India.
 
-💻 Skills
+# 💻 Skills
 
 - HTML
 - CSS
@@ -14,34 +14,26 @@ B.SC CS Student and Aspiring Developer from India.
 - Python
 - SQL
 
-🚀 Projects
+# 🚀 Projects
 
 - School Management System (In Progress)
 - Portfolio Website
 - Web Design Projects
 
-📚 Currently Learning
+# 📚 Currently Learning
 
 - Web Development
 - Git & GitHub
 - Software Engineering
 
-🎯 Goals
+# 🎯 Goals
 
 - Build real-world projects
 - Contribute to open-source projects
 - Gain experience in web development
 
-📫 Contact
+# 📫 Contact
 
 GitHub: @tiyasa-hait
-- Git & GitHub
-- Software Engineering
-
-## Goals
-- Build real-world projects
-- Contribute to open-source projects
-- Gain experience in web development
-
 ## Contact
 GitHub: @tiyasa-hait
